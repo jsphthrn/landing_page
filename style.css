@@ -187,3 +187,42 @@ li:hover > a {
     padding-left: 10%;
     padding-right: 10%;
 }
+.section3 {
+    padding: 5% 15%;
+    background-color: #333;
+}
+
+.banner {
+    background-color: #fce40d;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 5% 10%;
+    border-radius: 25px;   
+}
+
+.banner-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: #333;
+}
+
+.banner-text {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight
+}
+
+.section3-button {
+    background-color: #fce40d;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    color: #333;
+    padding: 8px;
+    padding-left: 24px;
+    padding-right: 24px;
+    border-color: #333;
+    border-radius: 14px;
+}
